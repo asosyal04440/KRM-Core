@@ -1,0 +1,13 @@
+{
+  "name": "uefi-spec-download",
+  "source_path": "D:\\echOS Kaynak Arşivi\\03_Hardware_Specs\\uefi-spec-download.html",
+  "spec_type": "hardware",
+  "raw_size": 892,
+  "clean_size": 472,
+  "content": "﻿ UEFI Specification 2.10 - Download Page UEFI Specification 2.10 Official Download Links UEFI Specification 2.10 PDF (Aug 29, 2022) UEFI Specification 2.10 HTML (online) Latest Versions UEFI Specification Version 2.11 (released December 2024) - PDF and HTML available at uefi.org/specifications UEFI Specification Version 2.10 Errata A (August 2024) - PDF and HTML Direct PDF Download Download UEFI_Spec_2_10_Aug29.pdf Source: UEFI Forum - https://uefi.org/specifications",
+  "sections": [],
+  "metadata": {
+    "file_size": 895,
+    "extension": ".html"
+  }
+}

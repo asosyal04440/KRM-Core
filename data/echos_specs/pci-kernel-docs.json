@@ -1,0 +1,13 @@
+{
+  "name": "pci-kernel-docs",
+  "source_path": "D:\\echOS Kaynak Arşivi\\03_Hardware_Specs\\pci-kernel-docs.html",
+  "spec_type": "hardware",
+  "raw_size": 10608,
+  "clean_size": 1429,
+  "content": "The Linux PCI driver implementer’s API guide &#8212; The Linux Kernel documentation The Linux Kernel 7.1.0-rc4 Quick search Contents Development process Submitting patches Code of conduct Maintainer handbook All development-process docs Core API Driver APIs General information for driver authors Useful support libraries Bus-level documentation Auxiliary Bus Compute Express Link EISA bus support Firewire (IEEE 1394) driver Interface Guide I3C subsystem ISA Drivers MEN Chameleon Bus The Linux PCI driver implementer’s API guide The Linux RapidIO Subsystem Linux kernel SLIMbus support Linux USB API Virtio VME Device Drivers W1: Dallas’ 1-wire bus Xillybus driver for generic FPGA interface Subsystem-specific APIs Subsystems Locking Licensing rules Writing documentation Development tools Testing guide Hacking guide Tracing Fault injection Livepatching Rust Administration Build system Reporting issues Userspace tools Userspace API Firmware Firmware and Devicetree CPU architectures Unsorted documentation Translations This Page Show Source The Linux PCI driver implementer’s API guide ¶ Table of contents PCI Support Library PCI Hotplug Support Library PCI Peer-to-Peer DMA Support Driver Writer’s Guide Usage With DMABUF P2P DMA Support Library PCI Trusted Execution Environment Security Manager (TSM) Subsystem Interfaces &#169;The kernel development community. | Powered by Sphinx 5.3.0 & Alabaster 0.7.16 | Page source",
+  "sections": [],
+  "metadata": {
+    "file_size": 10619,
+    "extension": ".html"
+  }
+}

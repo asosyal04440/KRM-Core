@@ -1,0 +1,38 @@
+{
+  "total_files": 35,
+  "processed_files": 35,
+  "total_concepts": 122,
+  "concept_summary": {
+    "by_category": {
+      "hardware": 32,
+      "filesystem": 2,
+      "unknown": 1
+    },
+    "top_registers": {
+      "GUID": 1,
+      "VIRTIO": 1
+    },
+    "top_hardware_terms": {
+      "VID": 4,
+      "EFI": 4,
+      "PCI": 3,
+      "DID": 2,
+      "BAR": 2,
+      "NVMe": 2,
+      "UEFI": 2,
+      "IDT": 2,
+      "VirtIO": 2,
+      "MSI": 2,
+      "ACPI": 1,
+      "ISR": 1,
+      "APIC": 1,
+      "paging": 1,
+      "endpoint": 1,
+      "USB": 1,
+      "MSI-X": 1,
+      "virtqueue": 1,
+      "vring": 1,
+      "feature negotiation": 1
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "iris-glk-fails",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\intel\\ci\\iris-glk-fails.txt",
+  "spec_type": "hardware",
+  "content": "# \"Result is different than expected at index: 33 Expected value: 664128 Result value: 658538 \"\nKHR-GL46.texture_buffer.texture_buffer_atomic_functions,Fail\n\nKHR-GLES31.core.texture_buffer.texture_buffer_atomic_functions,Fail\n",
+  "sections": [
+    {
+      "title": "\"Result is different than expected at index: 33 Expected value: 664128 Result value: 658538 \"",
+      "content": "KHR-GL46.texture_buffer.texture_buffer_atomic_functions,Fail\n\nKHR-GLES31.core.texture_buffer.texture_buffer_atomic_functions,Fail\n",
+      "level": 1
+    }
+  ],
+  "metadata": {
+    "file_size": 230,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

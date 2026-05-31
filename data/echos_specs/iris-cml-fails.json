@@ -1,0 +1,18 @@
+{
+  "name": "iris-cml-fails",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\intel\\ci\\iris-cml-fails.txt",
+  "spec_type": "hardware",
+  "content": "# Timed out after raising the iris-cml-deqp parallel number from 4 to 8.\n# https://gitlab.freedesktop.org/mesa/mesa/-/jobs/66875845\nKHR-Single-GL46.arrays_of_arrays_gl.SizedDeclarationsPrimitive,Timeout\n",
+  "sections": [
+    {
+      "title": "https://gitlab.freedesktop.org/mesa/mesa/-/jobs/66875845",
+      "content": "KHR-Single-GL46.arrays_of_arrays_gl.SizedDeclarationsPrimitive,Timeout\n",
+      "level": 1
+    }
+  ],
+  "metadata": {
+    "file_size": 206,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

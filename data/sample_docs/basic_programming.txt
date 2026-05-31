@@ -1,0 +1,1 @@
+Basic programming uses instructions, variables, functions, data structures, and control flow. A program transforms input into output through clear steps. Good code is modular, testable, and readable.

@@ -1,0 +1,12 @@
+{
+  "name": "iris-whl-flakes",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\intel\\ci\\iris-whl-flakes.txt",
+  "spec_type": "hardware",
+  "content": "spec@arb_query_buffer_object@qbo\n",
+  "sections": [],
+  "metadata": {
+    "file_size": 34,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

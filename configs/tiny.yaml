@@ -1,0 +1,5 @@
+profile: ultra_lite
+max_candidates: 80
+max_ghost_edges: 250
+resonance_rounds: 2
+source_snippet_chars: 240

@@ -1,0 +1,12 @@
+{
+  "name": "CMakeLists",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\reactos\\modules\\rosapps\\applications\\rosinternals\\ntfsinfo\\CMakeLists.txt",
+  "spec_type": "filesystem",
+  "content": "list(APPEND SOURCE ntfsinfo.c ntfsinfo.rc)\nadd_executable(ntfsinfo ${SOURCE})\nset_module_type(ntfsinfo win32cui UNICODE)\nadd_importlibs(ntfsinfo msvcrt kernel32 ntdll)\nadd_cd_file(TARGET ntfsinfo DESTINATION reactos/system32 FOR all)\n",
+  "sections": [],
+  "metadata": {
+    "file_size": 239,
+    "extension": ".txt",
+    "category": "filesystem"
+  }
+}

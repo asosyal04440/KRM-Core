@@ -1,0 +1,14 @@
+{
+  "examples": [
+    {
+      "instruction": "Explain cellular respiration briefly.",
+      "input": "Use biology terms.",
+      "output": "Cellular respiration uses glucose and oxygen to release usable energy, producing carbon dioxide and water."
+    },
+    {
+      "instruction": "Summarize printing press effects.",
+      "input": "Use cautious historical language.",
+      "output": "The printing press could support literacy, education, bureaucracy, and reform, but resistance could limit impact."
+    }
+  ]
+}

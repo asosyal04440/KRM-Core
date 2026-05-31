@@ -1,0 +1,18 @@
+{
+  "name": "anv-jsl-slow-skips",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\intel\\ci\\anv-jsl-slow-skips.txt",
+  "spec_type": "hardware",
+  "content": "# These are pretty slow, so just run the 2d cases in non-\"full\" jobs.\ndEQP-VK.*robustness.*.no_fmt_qual.*samples_1.*_array.frag\ndEQP-VK.*robustness.*.no_fmt_qual.*samples_1.3d.frag\ndEQP-VK.*robustness.*.no_fmt_qual.*samples_1.cube.frag\n",
+  "sections": [
+    {
+      "title": "These are pretty slow, so just run the 2d cases in non-\"full\" jobs.",
+      "content": "dEQP-VK.*robustness.*.no_fmt_qual.*samples_1.*_array.frag\ndEQP-VK.*robustness.*.no_fmt_qual.*samples_1.3d.frag\ndEQP-VK.*robustness.*.no_fmt_qual.*samples_1.cube.frag\n",
+      "level": 1
+    }
+  ],
+  "metadata": {
+    "file_size": 240,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

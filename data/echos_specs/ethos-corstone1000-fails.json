@@ -1,0 +1,12 @@
+{
+  "name": "ethos-corstone1000-fails",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\gallium\\drivers\\ethosu\\ci\\ethos-corstone1000-fails.txt",
+  "spec_type": "hardware",
+  "content": "Models.Op/efficientdet_efficientdet_tflite_lite0_int8_v1,Fail\n",
+  "sections": [],
+  "metadata": {
+    "file_size": 63,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

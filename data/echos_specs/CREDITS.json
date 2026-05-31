@@ -1,0 +1,12 @@
+{
+  "name": "CREDITS",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\intel-graphics-compiler\\IGC\\BiFModule\\Implementation\\ExternalLibraries\\libclc\\CREDITS.TXT",
+  "spec_type": "hardware",
+  "content": "N: Peter Collingbourne\nE: peter@pcc.me.uk",
+  "sections": [],
+  "metadata": {
+    "file_size": 42,
+    "extension": ".TXT",
+    "category": "hardware"
+  }
+}

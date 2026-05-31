@@ -1,0 +1,63 @@
+{
+  "created_at": "2026-05-24T15:18:06.514564+00:00",
+  "record_counts": {
+    "total": 320,
+    "train": 256,
+    "valid": 32,
+    "test": 32
+  },
+  "task_distribution": {
+    "ANSWER_PLANNING": 40,
+    "INTENT_ROUTING": 40,
+    "DOMAIN_CLASSIFICATION": 80,
+    "DO_NOT_CLAIM": 40,
+    "CONCEPT_EXTRACTION": 40,
+    "RETRIEVAL_SCORING": 80
+  },
+  "domain_distribution": {
+    "0": 40,
+    "education": 32,
+    "1": 8,
+    "7": 8,
+    "3": 7,
+    "economics": 40,
+    "2": 8,
+    "biology": 44,
+    "programming": 12,
+    "chemistry": 8,
+    "technology": 12,
+    "10": 4,
+    "history": 12,
+    "8": 5,
+    "6": 5,
+    "9": 2,
+    "5": 1
+  },
+  "curriculum": {
+    "stages": {
+      "PLANNING": 40,
+      "CONCEPTS": 160,
+      "STRUCTURE": 40,
+      "EDGES": 80
+    },
+    "tasks": {
+      "ANSWER_PLANNING": 40,
+      "INTENT_ROUTING": 40,
+      "DOMAIN_CLASSIFICATION": 80,
+      "DO_NOT_CLAIM": 40,
+      "CONCEPT_EXTRACTION": 40,
+      "RETRIEVAL_SCORING": 80
+    }
+  },
+  "source_artifact_paths": {
+    "mind": "data\\mind_dataset",
+    "examples": "data\\training_examples"
+  },
+  "limits_used": {
+    "max_input_chars": 20000,
+    "max_target_chars": 20000
+  },
+  "profile": "tiny",
+  "deterministic_seed": 42,
+  "warnings": []
+}

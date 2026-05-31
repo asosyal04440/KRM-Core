@@ -1,0 +1,784 @@
+[
+  {
+    "source_file": "00137_learn.microsoft.com_en-us_windows-hardware_drivers_universal-serial-bus--usb--driver-samples.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00265_learn.microsoft.com_en-us_windows-hardware_drivers_acpi.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00277_learn.microsoft.com_en-us_windows_win32_fileio_transactional-ntfs-reference.json",
+    "spec_type": "filesystem",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00282_learn.microsoft.com_en-us_windows-hardware_drivers_pci.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00294_learn.microsoft.com_en-us_windows-hardware_drivers_usbcon.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00888_learn.microsoft.com_en-us_windows-hardware_drivers_acpi.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00909_learn.microsoft.com_en-us_windows-hardware_drivers_pci.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00922_learn.microsoft.com_en-us_windows-hardware_drivers_usbcon.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "00968_learn.microsoft.com_en-us_windows-hardware_drivers_universal-serial-bus--usb--driver-samples.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "01073_learn.microsoft.com_en-us_windows-hardware_drivers__pci.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "01074_learn.microsoft.com_en-us_windows-hardware_drivers__usbref.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "01090_learn.microsoft.com_en-us_windows-hardware_drivers__acpi.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "01157_learn.microsoft.com_en-us_windows-hardware_drivers_minimum-uefi-requirements-for-windows-on-soc-platforms.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "01158_learn.microsoft.com_en-us_windows-hardware_drivers_windows-acpi-design-guide-for-soc-platforms.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "android-angle-venus-anv-android-cts-include.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "android-angle-venus-tu-fails.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "angle-anv-adl-slow-skips.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "anv-jsl-slow-skips.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "anv-rpl-flakes.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "VID",
+          "category": "pci"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "anv-tgl-flakes.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "VID",
+          "category": "pci"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "CMakeLists.json",
+    "spec_type": "filesystem",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "CREDITS.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "ethos-corstone1000-fails.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "gpt-spec.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [
+        "Bit Content",
+        "bit platforms",
+        "bit PowerPC",
+        "bit ",
+        "regardless",
+        "bit editions",
+        "bit LBA",
+        "field that",
+        "Bit Edition",
+        "bit LBAs",
+        "bit 7",
+        "registry",
+        "bit MS",
+        "bit MIPS",
+        "bit calculations",
+        "bit rather",
+        "bit versions",
+        "field zeroed",
+        "bit",
+        "bit type",
+        "bit logical",
+        "registered",
+        "bit common",
+        "bit partition",
+        "bit 60",
+        "bits",
+        "bit does",
+        "bit supports"
+      ],
+      "bit_fields": [
+        "20",
+        "5B",
+        "30",
+        "54",
+        "10",
+        "14",
+        "48",
+        "08",
+        "50",
+        "58",
+        "5452415020494645",
+        "00",
+        "8300",
+        "('60', '')",
+        "38",
+        "28",
+        "0C",
+        "18",
+        "('7', '')",
+        "5C"
+      ],
+      "hardware_terms": [
+        {
+          "term": "VID",
+          "category": "pci"
+        },
+        {
+          "term": "DID",
+          "category": "pci"
+        },
+        {
+          "term": "BAR",
+          "category": "pci"
+        },
+        {
+          "term": "NVMe",
+          "category": "nvme"
+        },
+        {
+          "term": "ACPI",
+          "category": "acpi"
+        },
+        {
+          "term": "UEFI",
+          "category": "uefi"
+        },
+        {
+          "term": "EFI",
+          "category": "uefi"
+        },
+        {
+          "term": "ISR",
+          "category": "interrupt"
+        }
+      ],
+      "protocols": [
+        "nvme0"
+      ],
+      "data_structures": [
+        "drives"
+      ]
+    },
+    "register_map": [
+      {
+        "offset": "0x00",
+        "name": "GUID",
+        "line": 1,
+        "context": "GUID Partition Table - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation"
+      }
+    ],
+    "bit_fields": [
+      {
+        "bit": 60,
+        "type": "single"
+      },
+      {
+        "bit": 7,
+        "type": "single"
+      }
+    ]
+  },
+  {
+    "source_file": "ingest_summary.json",
+    "spec_type": "unknown",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "intel-sdm-overview.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [
+        "Registers",
+        "registers"
+      ],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "APIC",
+          "category": "interrupt"
+        },
+        {
+          "term": "IDT",
+          "category": "interrupt"
+        },
+        {
+          "term": "paging",
+          "category": "memory"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "intel-tgl-flakes.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "EFI",
+          "category": "uefi"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "iris-cml-fails.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "iris-glk-fails.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "iris-whl-flakes.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "nvme-kernel-docs.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "PCI",
+          "category": "pci"
+        },
+        {
+          "term": "NVMe",
+          "category": "nvme"
+        },
+        {
+          "term": "endpoint",
+          "category": "usb"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "pci-kernel-docs.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "PCI",
+          "category": "pci"
+        },
+        {
+          "term": "VirtIO",
+          "category": "virtio"
+        },
+        {
+          "term": "USB",
+          "category": "usb"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "uefi-spec-download.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [],
+      "bit_fields": [],
+      "hardware_terms": [
+        {
+          "term": "UEFI",
+          "category": "uefi"
+        },
+        {
+          "term": "EFI",
+          "category": "uefi"
+        }
+      ],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  },
+  {
+    "source_file": "virtio-v1.2.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [
+        "bit VIRTQ_DESC_F_INDIRECT",
+        "bit VIRTIO_F_VERSION_1",
+        "bit queue",
+        "bit during",
+        "bit is",
+        "fields",
+        "field controls",
+        "field from",
+        "bit ring",
+        "bit integer",
+        "regions",
+        "bit ",
+        "field Fld",
+        "field if",
+        "bit when",
+        "field before",
+        "Field Fld",
+        "Register Layout",
+        "field",
+        "Bits",
+        "field lengths",
+        "bit field",
+        "bit size",
+        "bitfields",
+        "bit 15",
+        "field Feature",
+        "Field 2",
+        "bit to",
+        "bit changes",
+        "Regrettably",
+        "offset 0",
+        "field in",
+        "field is",
+        "field ",
+        "Bit",
+        "bitfield",
+        "bit",
+        "bit of",
+        "region",
+        "Field The",
+        "Regions",
+        "field indicates",
+        "bit in",
+        "bit idx",
+        "regarding",
+        "Field During",
+        "bit 0",
+        "bit within",
+        "field provides",
+        "bit and",
+        "field starts",
+        "bits",
+        "bitrary",
+        "bit back"
+      ],
+      "bit_fields": [
+        "1004",
+        "103F",
+        "1001",
+        "1AF4",
+        "1040",
+        "107F",
+        "('15', '')",
+        "1003",
+        "107f",
+        "1005",
+        "1041",
+        "1002",
+        "1009",
+        "1000",
+        "('0', '')"
+      ],
+      "hardware_terms": [
+        {
+          "term": "PCI",
+          "category": "pci"
+        },
+        {
+          "term": "VID",
+          "category": "pci"
+        },
+        {
+          "term": "DID",
+          "category": "pci"
+        },
+        {
+          "term": "BAR",
+          "category": "pci"
+        },
+        {
+          "term": "MSI",
+          "category": "pci"
+        },
+        {
+          "term": "MSI-X",
+          "category": "pci"
+        },
+        {
+          "term": "VirtIO",
+          "category": "virtio"
+        },
+        {
+          "term": "virtqueue",
+          "category": "virtio"
+        },
+        {
+          "term": "vring",
+          "category": "virtio"
+        },
+        {
+          "term": "feature negotiation",
+          "category": "virtio"
+        },
+        {
+          "term": "EFI",
+          "category": "uefi"
+        },
+        {
+          "term": "IDT",
+          "category": "interrupt"
+        },
+        {
+          "term": "MSI",
+          "category": "interrupt"
+        }
+      ],
+      "protocols": [
+        "pcie",
+        "PCI Express",
+        "PCIe"
+      ],
+      "data_structures": [
+        "virtq_used_elem",
+        "pvirtq_indirect_descriptor_table",
+        "S",
+        "pvirtq_event_suppress",
+        "virtq_avail",
+        "virtq",
+        "virtq_desc",
+        "indirect_descriptor_table",
+        "pvirtq_desc",
+        "syntax",
+        "virtq_used"
+      ]
+    },
+    "register_map": [
+      {
+        "offset": "0x1AF4",
+        "name": "VIRTIO",
+        "line": 1,
+        "context": "Virtual I/O Device (VIRTIO) Version 1.2 Virtual I/O Device (VIRTIO) Version 1.2 Committee Specificat"
+      }
+    ],
+    "bit_fields": [
+      {
+        "bit": 0,
+        "type": "single"
+      },
+      {
+        "bit": 15,
+        "type": "single"
+      }
+    ]
+  },
+  {
+    "source_file": "x86_64-abi-reference.json",
+    "spec_type": "hardware",
+    "concepts": {
+      "registers": [
+        "Register usage"
+      ],
+      "bit_fields": [],
+      "hardware_terms": [],
+      "protocols": [],
+      "data_structures": []
+    },
+    "register_map": [],
+    "bit_fields": []
+  }
+]

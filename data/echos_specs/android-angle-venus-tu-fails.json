@@ -1,0 +1,18 @@
+{
+  "name": "android-angle-venus-tu-fails",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\virtio\\ci\\android-angle-venus-tu-fails.txt",
+  "spec_type": "hardware",
+  "content": "# Turnip host failure\ndEQP-VK.transform_feedback.simple_fast_gpl.draw_indirect_counter_offset_244,Fail\n",
+  "sections": [
+    {
+      "title": "Turnip host failure",
+      "content": "dEQP-VK.transform_feedback.simple_fast_gpl.draw_indirect_counter_offset_244,Fail\n",
+      "level": 1
+    }
+  ],
+  "metadata": {
+    "file_size": 105,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

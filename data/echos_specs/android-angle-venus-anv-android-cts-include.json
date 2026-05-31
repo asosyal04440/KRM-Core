@@ -1,0 +1,12 @@
+{
+  "name": "android-angle-venus-anv-android-cts-include",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\virtio\\ci\\android-angle-venus-anv-android-cts-include.txt",
+  "spec_type": "hardware",
+  "content": "x86_64 CtsGraphicsTestCases\nx86_64 CtsNativeHardwareTestCases\nx86_64 CtsSkQPTestCases\n",
+  "sections": [],
+  "metadata": {
+    "file_size": 89,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

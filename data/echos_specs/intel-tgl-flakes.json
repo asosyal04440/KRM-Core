@@ -1,0 +1,12 @@
+{
+  "name": "intel-tgl-flakes",
+  "source_path": "D:\\echOS Kaynak Arşivi\\OS kaynaları\\pdfs-master\\01_Operating_Systems_and_Kernel\\mesa\\src\\intel\\ci\\intel-tgl-flakes.txt",
+  "spec_type": "hardware",
+  "content": "gl_androidblendmodes\ngl_atlastext\ngl_localmatriximagefilter\ngl_typefacestyles\ngles_androidblendmodes\ngles_arithmode\ngles_localmatriximagefilter\nvk_crbug_899512\n",
+  "sections": [],
+  "metadata": {
+    "file_size": 168,
+    "extension": ".txt",
+    "category": "hardware"
+  }
+}

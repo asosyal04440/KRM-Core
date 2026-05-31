@@ -1,0 +1,13 @@
+{
+  "name": "x86_64-abi-reference",
+  "source_path": "D:\\echOS Kaynak Arşivi\\03_Hardware_Specs\\x86_64-abi-reference.html",
+  "spec_type": "hardware",
+  "raw_size": 897,
+  "clean_size": 548,
+  "content": "﻿ x86_64 System V ABI - Reference System V Application Binary Interface - AMD64 Architecture Processor Supplement Official Reference x86_64 ABI PDF (0.99) System V ABI generic Key Topics Calling convention: RDI, RSI, RDX, RCX, R8, R9 for integer args; XMM0-7 for float args Stack alignment: 16 bytes before CALL Return values: RAX for integers, XMM0 for floats ELF format: executable, shared object, relocatable Register usage: callee-saved (RBX, RBP, R12-R15), caller-saved (others) Source: Linux Foundation - https://refspecs.linuxfoundation.org/",
+  "sections": [],
+  "metadata": {
+    "file_size": 900,
+    "extension": ".html"
+  }
+}

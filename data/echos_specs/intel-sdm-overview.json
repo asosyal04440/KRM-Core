@@ -1,0 +1,13 @@
+{
+  "name": "intel-sdm-overview",
+  "source_path": "D:\\echOS Kaynak Arşivi\\03_Hardware_Specs\\intel-sdm-overview.html",
+  "spec_type": "hardware",
+  "raw_size": 1827,
+  "clean_size": 1204,
+  "content": "﻿ Intel Software Developer Manuals - Download Reference Intel 64 and IA-32 Architectures Software Developer Manuals Official Download Page Intel SDM Official Page Direct PDF Downloads (Volume 3 - System Programming) Volume 3C: System Programming Guide, Part 3 (Oct 2024) Combined Volumes 3A, 3B, 3C, 3D: System Programming Guide - available from Intel developer page Volume Structure Volume 1 : Basic Architecture - processor architecture, programming environment Volume 2A/B/C/D : Instruction Set Reference (A-Z) Volume 3A : System Programming Guide, Part 1 - memory management, protection, task management Volume 3B : System Programming Guide, Part 2 - thermal/power management, debugging, performance monitoring Volume 3C : System Programming Guide, Part 3 - SMM, VMX, Intel VT Volume 3D : System Programming Guide, Part 4 - Intel SGX Volume 4 : Model-Specific Registers Key Topics for echOS (Volume 3) Memory management and paging (4-level, 5-level) Protection rings and segments Interrupt and exception handling (IDT, IST) Multi-processor support (APIC, MP tables) MSRs, control registers (CR0-CR4, CR8, EFER) Virtualization (VMX, EPT) PDF version: 091 (latest as of 2024). Source: Intel Corporation",
+  "sections": [],
+  "metadata": {
+    "file_size": 1830,
+    "extension": ".html"
+  }
+}

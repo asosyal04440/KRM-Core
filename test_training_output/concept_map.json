@@ -1,0 +1,216 @@
+{
+  "total_parameters": 84934656,
+  "total_blocks": 12,
+  "domains": {
+    "0": "general",
+    "1": "algorithms",
+    "2": "data_structures",
+    "3": "programming_languages",
+    "4": "operating_systems",
+    "5": "databases",
+    "6": "networking",
+    "7": "machine_learning",
+    "8": "computer_vision",
+    "9": "natural_language_processing",
+    "10": "software_engineering",
+    "11": "computer_architecture",
+    "12": "cybersecurity",
+    "13": "distributed_systems",
+    "14": "graphics",
+    "15": "human_computer_interaction"
+  },
+  "adjacency": {
+    "block_0000": [
+      "block_0001"
+    ],
+    "block_0001": [
+      "block_0000",
+      "block_0002"
+    ],
+    "block_0002": [
+      "block_0001",
+      "block_0003"
+    ],
+    "block_0003": [
+      "block_0004",
+      "block_0002"
+    ],
+    "block_0004": [
+      "block_0005",
+      "block_0003"
+    ],
+    "block_0005": [
+      "block_0004",
+      "block_0006"
+    ],
+    "block_0006": [
+      "block_0007",
+      "block_0005"
+    ],
+    "block_0007": [
+      "block_0008",
+      "block_0006"
+    ],
+    "block_0008": [
+      "block_0007",
+      "block_0009"
+    ],
+    "block_0009": [
+      "block_0008",
+      "block_0010"
+    ],
+    "block_0010": [
+      "block_0009",
+      "block_0011"
+    ],
+    "block_0011": [
+      "block_0010"
+    ]
+  },
+  "blocks": [
+    {
+      "block_id": "block_0000",
+      "concept_name": "layer_group_0_1",
+      "domain_id": 0,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        0
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0001",
+      "concept_name": "layer_group_1_2",
+      "domain_id": 1,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        1
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0002",
+      "concept_name": "layer_group_2_3",
+      "domain_id": 2,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        2
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0003",
+      "concept_name": "layer_group_3_4",
+      "domain_id": 3,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        3
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0004",
+      "concept_name": "layer_group_4_5",
+      "domain_id": 4,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        4
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0005",
+      "concept_name": "layer_group_5_6",
+      "domain_id": 5,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        5
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0006",
+      "concept_name": "layer_group_6_7",
+      "domain_id": 6,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        6
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0007",
+      "concept_name": "layer_group_7_8",
+      "domain_id": 7,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        7
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0008",
+      "concept_name": "layer_group_8_9",
+      "domain_id": 8,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        8
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0009",
+      "concept_name": "layer_group_9_10",
+      "domain_id": 9,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        9
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0010",
+      "concept_name": "layer_group_10_11",
+      "domain_id": 10,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        10
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    },
+    {
+      "block_id": "block_0011",
+      "concept_name": "layer_group_11_12",
+      "domain_id": 11,
+      "parameter_count": 7077888,
+      "layer_indices": [
+        11
+      ],
+      "size_bytes": 14155776,
+      "related_block_ids": [],
+      "source_refs": []
+    }
+  ]
+}

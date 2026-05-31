@@ -1,0 +1,5 @@
+profile: local_core
+max_candidates: 200
+max_ghost_edges: 1000
+resonance_rounds: 4
+source_snippet_chars: 420
