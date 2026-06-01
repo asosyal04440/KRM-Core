@@ -29,8 +29,11 @@ def list_special_tokens() -> list[str]:
     return list(SPECIAL_TOKENS)
 
 
-def validate_no_collision(extra_tokens: list[str] | None = None) -> None:
-    tokens = list(SPECIAL_TOKENS) + list(extra_tokens or [])
+def validate_no_collision(extra_tokens: list[str] | None = None, *, full_list: bool = False) -> None:
+    if full_list:
+        tokens = list(extra_tokens or [])
+    else:
+        tokens = list(SPECIAL_TOKENS) + list(extra_tokens or [])
     if len(tokens) != len(set(tokens)):
         raise ValueError("special token collision detected")
     for token in tokens:

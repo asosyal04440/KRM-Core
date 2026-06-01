@@ -13,7 +13,7 @@ from krm.training.corpus_builder import formatted_corpus_text, read_corpus_recor
 from krm.training.model_config import get_model_config
 from krm.training.resource_estimator import estimate_training_resources
 from krm.training.tokenizer import CharByteTokenizer
-from krm.training.torch_backend import build_tiny_decoder_lm, save_checkpoint, torch_availability, train_step
+from krm.training.torch_backend import build_model, save_checkpoint, torch_availability, train_step
 
 
 def main() -> int:
@@ -21,7 +21,7 @@ def main() -> int:
     parser.add_argument("--corpus", required=True, type=Path)
     parser.add_argument("--tokenizer", required=True, type=Path)
     parser.add_argument("--out", required=True, type=Path)
-    parser.add_argument("--config", default="10m", choices=["10m", "30m", "100m"])
+    parser.add_argument("--config", default="10m", choices=["10m", "30m", "100m", "rwkv_10m", "rwkv_50m", "rwkv_200m"])
     parser.add_argument("--max-steps", type=int, default=100)
     parser.add_argument("--batch-size", type=int, default=2)
     parser.add_argument("--seq-len", type=int, default=128)
@@ -73,7 +73,7 @@ def main() -> int:
     tensor = torch.tensor(ids[: max(args.seq_len + 1, args.batch_size * (args.seq_len + 1))], dtype=torch.long)
     chunks = tensor.unfold(0, args.seq_len + 1, args.seq_len + 1)
     batch = chunks[: args.batch_size].to(device)
-    model = build_tiny_decoder_lm(config).to(device)
+    model = build_model(config).to(device)
     optimizer = torch.optim.AdamW(model.parameters(), lr=args.learning_rate)
     losses: list[float] = []
     for step in range(1, args.max_steps + 1):
