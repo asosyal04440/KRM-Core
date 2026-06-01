@@ -58,12 +58,12 @@ else:
 # ============================================================
 
 # === SECIMLER ===
-MODEL = "rwkv_50m"       # rwkv_10m, rwkv_50m, rwkv_200m, rwkv_1b
-BATCH_SIZE = 16          # T4 icin 16-32, A100 icin 64-128
+MODEL = "rwkv_1b"        # rwkv_10m, rwkv_50m, rwkv_200m, rwkv_1b
+BATCH_SIZE = 8           # T4 icin 8, A100 icin 32
 SEQ_LEN = 512            # Dizi uzunlugu
-MAX_STEPS = 5000         # Adim sayisi
-LR = 4e-4                # Ogrenme hizi
-SAVE_EVERY = 500         # Her 500 adimda kaydet
+MAX_STEPS = 10000        # Adim sayisi
+LR = 3e-4                # Ogrenme hizi
+SAVE_EVERY = 1000        # Her 1000 adimda kaydet
 VOCAB_SIZE = 32768       # BPE vocab
 
 MODEL_CONFIGS = {
